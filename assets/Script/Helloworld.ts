@@ -2,10 +2,16 @@ const {ccclass, property} = cc._decorator;
 
 @ccclass
 export default class Helloworld extends cc.Component {
-    @property(cc.AudioClip)
-    bgm: cc.AudioClip = null;
+
+    onLoad() {
+        cc.loader.loadRes("rumba", function (err, sound) {
+            cc.audioEngine.playMusic(sound, true);
+        });
+    }
+
+
     start() {
-        cc.audioEngine.playMusic(this.bgm,true);
+        // cc.audioEngine.playMusic(this.bgm,true);
 
     }
 
