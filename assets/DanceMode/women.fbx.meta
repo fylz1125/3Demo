@@ -1,0 +1,161 @@
+{
+  "ver": "1.0.14",
+  "uuid": "a47caeb3-f560-4d9c-bf33-4a770dd3bf4a",
+  "scaleFactor": 400,
+  "boneCount": 65,
+  "precomputeJointMatrix": true,
+  "animationFrameRate": 30,
+  "subMetas": {
+    "buffer.bin": {
+      "ver": "1.0.0",
+      "uuid": "f33abe35-4265-481c-8a32-77577969c02d",
+      "subMetas": {}
+    },
+    "Kachujin.mesh": {
+      "ver": "1.0.1",
+      "uuid": "1371fdc0-a981-4bf4-91f8-104198b29252",
+      "verts": 7665,
+      "tris": 12610,
+      "submeshes": 1,
+      "minPos": {
+        "x": -0.969268798828125,
+        "y": 0.0051129418425262,
+        "z": -0.217174977064133
+      },
+      "maxPos": {
+        "x": 0.968413889408112,
+        "y": 2.08256077766418,
+        "z": 0.176307782530785
+      },
+      "subMetas": {}
+    },
+    "women-0.skeleton": {
+      "ver": "1.0.1",
+      "uuid": "897e7820-e124-4ce2-904c-033692dd1a3c",
+      "subMetas": {}
+    },
+    "mixamo.com.sac": {
+      "ver": "1.0.1",
+      "uuid": "3d19cf19-f00e-46f1-a040-efab75c15901",
+      "modelUuid": "a47caeb3-f560-4d9c-bf33-4a770dd3bf4a",
+      "animationID": 0,
+      "name": "mixamo.com",
+      "maxFrameCount": 437,
+      "totalFrameCount": 22558,
+      "duration": 18.16666603088379,
+      "animationFrameRate": 30,
+      "subMetas": {}
+    },
+    "women.prefab": {
+      "ver": "1.1.0",
+      "uuid": "60f3a05c-67a6-4efb-b022-cfbbd46f8fd0",
+      "optimizationPolicy": "AUTO",
+      "asyncLoadAssets": false,
+      "readonly": true,
+      "content": [
+        {
+          "__type__": "cc.Prefab",
+          "_name": "",
+          "_objFlags": 0,
+          "data": {
+            "__id__": 1
+          }
+        },
+        {
+          "__type__": "cc.Node",
+          "_name": "Sprite",
+          "_objFlags": 0,
+          "_opacity": 255,
+          "_color": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "_cascadeOpacityEnabled": true,
+          "_parent": null,
+          "_anchorPoint": {
+            "__type__": "cc.Vec2",
+            "x": 0.5,
+            "y": 0.5
+          },
+          "_contentSize": {
+            "__type__": "cc.Size",
+            "width": 40,
+            "height": 36
+          },
+          "_children": [],
+          "_rotationX": 0,
+          "_rotationY": 0,
+          "_scaleX": 1,
+          "_scaleY": 1,
+          "_position": {
+            "__type__": "cc.Vec2",
+            "x": 0,
+            "y": 0
+          },
+          "_skewX": 0,
+          "_skewY": 0,
+          "_localZOrder": 0,
+          "_globalZOrder": 0,
+          "_tag": -1,
+          "_opacityModifyRGB": false,
+          "_reorderChildDirty": false,
+          "_id": "",
+          "_active": true,
+          "_components": [
+            {
+              "__id__": 2
+            }
+          ],
+          "_prefab": {
+            "__id__": 3
+          }
+        },
+        {
+          "__type__": "cc.Sprite",
+          "_name": "",
+          "_objFlags": 0,
+          "node": {
+            "__id__": 1
+          },
+          "_enabled": true,
+          "_spriteFrame": {
+            "__uuid__": "8cdb44ac-a3f6-449f-b354-7cd48cf84061"
+          },
+          "_type": 0,
+          "_sizeMode": 1,
+          "_fillType": 0,
+          "_fillCenter": {
+            "__type__": "cc.Vec2",
+            "x": 0,
+            "y": 0
+          },
+          "_fillStart": 0,
+          "_fillRange": 0,
+          "_isTrimmedMode": true,
+          "_srcBlendFactor": 770,
+          "_dstBlendFactor": 771,
+          "_atlas": null
+        },
+        {
+          "__type__": "cc.PrefabInfo",
+          "root": {
+            "__id__": 1
+          },
+          "asset": null,
+          "fileId": "d7118yAG5lKybkFOAh8koPL"
+        }
+      ],
+      "subMetas": {}
+    },
+    "kachujin_MAT.mtl": {
+      "ver": "1.0.2",
+      "uuid": "0fb8e64e-c528-45e9-9e0c-4e9237da3e3b",
+      "dataAsSubAsset": "{\n  \"__type__\": \"cc.Material\",\n  \"_name\": \"\",\n  \"_objFlags\": 0,\n  \"_native\": \"\",\n  \"_effectAsset\": {\n    \"__uuid__\": \"abc2cb62-7852-4525-a90d-d474487b88f2\"\n  },\n  \"_defines\": {\n    \"USE_DIFFUSE_TEXTURE\": true,\n    \"USE_SPECULAR_TEXTURE\": true,\n    \"USE_NORMAL_TEXTURE\": true,\n    \"USE_SPECULAR\": true\n  },\n  \"_props\": {\n    \"normalTexture\": {\n      \"__uuid__\": \"29bd3cad-10a5-4ea7-9ff7-f82a09742075\"\n    },\n    \"diffuseColor\": {\n      \"__type__\": \"cc.Color\",\n      \"r\": 204,\n      \"g\": 204,\n      \"b\": 204,\n      \"a\": 0\n    },\n    \"diffuseTexture\": {\n      \"__uuid__\": \"12b43454-86df-4a7f-b4e8-a525d0275c17\"\n    },\n    \"specularTexture\": {\n      \"__uuid__\": \"02289fdd-5f8d-4b24-9c66-3b23f4e21d51\"\n    }\n  }\n}",
+      "name": "kachujin_MAT.mtl",
+      "subMetas": {}
+    }
+  }
+}
