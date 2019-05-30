@@ -153,7 +153,7 @@
     "kachujin_MAT.mtl": {
       "ver": "1.0.2",
       "uuid": "0fb8e64e-c528-45e9-9e0c-4e9237da3e3b",
-      "dataAsSubAsset": "{\n  \"__type__\": \"cc.Material\",\n  \"_name\": \"\",\n  \"_objFlags\": 0,\n  \"_native\": \"\",\n  \"_effectAsset\": {\n    \"__uuid__\": \"abc2cb62-7852-4525-a90d-d474487b88f2\"\n  },\n  \"_defines\": {\n    \"USE_DIFFUSE_TEXTURE\": true,\n    \"USE_SPECULAR_TEXTURE\": true,\n    \"USE_NORMAL_TEXTURE\": true,\n    \"USE_SPECULAR\": true\n  },\n  \"_props\": {\n    \"normalTexture\": {\n      \"__uuid__\": \"29bd3cad-10a5-4ea7-9ff7-f82a09742075\"\n    },\n    \"diffuseColor\": {\n      \"__type__\": \"cc.Color\",\n      \"r\": 204,\n      \"g\": 204,\n      \"b\": 204,\n      \"a\": 0\n    },\n    \"diffuseTexture\": {\n      \"__uuid__\": \"12b43454-86df-4a7f-b4e8-a525d0275c17\"\n    },\n    \"specularTexture\": {\n      \"__uuid__\": \"02289fdd-5f8d-4b24-9c66-3b23f4e21d51\"\n    }\n  }\n}",
+      "dataAsSubAsset": "{\n  \"__type__\": \"cc.Material\",\n  \"_name\": \"\",\n  \"_objFlags\": 0,\n  \"_native\": \"\",\n  \"_effectAsset\": {\n    \"__uuid__\": \"6d91e591-4ce0-465c-809f-610ec95019c6\"\n  },\n  \"_defines\": {\n    \"USE_DIFFUSE_TEXTURE\": true,\n    \"USE_SPECULAR_TEXTURE\": true,\n    \"USE_NORMAL_TEXTURE\": true,\n    \"INPUT_IS_GAMMA\": false,\n    \"USE_ALPHA_TEST\": false\n  },\n  \"_props\": {\n    \"diffuseColor\": {\n      \"__type__\": \"cc.Color\",\n      \"r\": 255,\n      \"g\": 255,\n      \"b\": 255,\n      \"a\": 255\n    },\n    \"diffuseTexture\": {\n      \"__uuid__\": \"12b43454-86df-4a7f-b4e8-a525d0275c17\"\n    }\n  }\n}",
       "name": "kachujin_MAT.mtl",
       "subMetas": {}
     }
