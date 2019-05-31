@@ -13,7 +13,9 @@
 <div align=center>
 <img src="GIF.gif" />
 </div>
+
 ##### 详细的技术讲解请关注我的微信公号：
+
 <div align=center>
 <img src="wechat_small.jpg" width="200" hegiht="200" />
 </div>
