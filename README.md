@@ -14,4 +14,5 @@
 ![demo](GIF.gif)
 
 ##### 详细的技术讲解请关注我的微信公号：
-![微信二维码](wechat_small.jpg)
+
+<img src="wechat_small.jpg" width="200" hegiht="200" align=center />
