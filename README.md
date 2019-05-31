@@ -10,9 +10,10 @@
 导入模型以后，切换到3D场景，创建3D节点，3D相机，设置一些属性，就可以跑起来了
 
 效果图:
-
-![demo](GIF.gif)
-
+<div align=center>
+<img src="GIF.gif" />
+</div>
 ##### 详细的技术讲解请关注我的微信公号：
-
-<img src="wechat_small.jpg" width="200" hegiht="200" align=center />
+<div align=center>
+<img src="wechat_small.jpg" width="200" hegiht="200" />
+</div>
