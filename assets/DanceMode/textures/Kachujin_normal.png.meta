@@ -1,6 +1,6 @@
 {
   "ver": "2.3.0",
-  "uuid": "29bd3cad-10a5-4ea7-9ff7-f82a09742075",
+  "uuid": "d8ff0633-2081-44fb-ab21-10eabb1d9566",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -9,8 +9,8 @@
   "subMetas": {
     "Kachujin_normal": {
       "ver": "1.0.4",
-      "uuid": "92db5171-7d73-4899-8464-0d01390873bf",
-      "rawTextureUuid": "29bd3cad-10a5-4ea7-9ff7-f82a09742075",
+      "uuid": "d8700ee5-fdab-4182-a44f-bab9a8b4b257",
+      "rawTextureUuid": "d8ff0633-2081-44fb-ab21-10eabb1d9566",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

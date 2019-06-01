@@ -17,8 +17,15 @@ export default class Helloworld extends cc.Component {
     playSamba() {
         let animation = this.getComponent(cc.Animation);
         animation.play("mixamo.com");
-        // this.node.runAction(cc.jumpBy(0.8, -400, 0, 300, 2));
         
+    }
+
+    jumpLeft() {
+        this.node.runAction(cc.jumpBy(1, -400, 0, 300, 2));
+    }
+
+    jumpRight() {
+        this.node.runAction(cc.jumpBy(1, 400, 0, 300, 2));
     }
 
     playMacarena() {

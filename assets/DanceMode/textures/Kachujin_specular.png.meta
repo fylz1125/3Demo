@@ -1,6 +1,6 @@
 {
   "ver": "2.3.0",
-  "uuid": "02289fdd-5f8d-4b24-9c66-3b23f4e21d51",
+  "uuid": "9fe72b91-a965-4ba0-a85c-55ce5ffa3951",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -9,8 +9,8 @@
   "subMetas": {
     "Kachujin_specular": {
       "ver": "1.0.4",
-      "uuid": "a852e171-3bf7-4bdc-9c50-7a8e4393bebd",
-      "rawTextureUuid": "02289fdd-5f8d-4b24-9c66-3b23f4e21d51",
+      "uuid": "bc1a94fb-e59d-483f-9993-8007f12cccc3",
+      "rawTextureUuid": "9fe72b91-a965-4ba0-a85c-55ce5ffa3951",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,
