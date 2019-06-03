@@ -7,7 +7,8 @@
 - 设置模型材质贴图
 - 设置动作
 
-导入模型以后，切换到3D场景，创建3D节点，3D相机，设置一些属性，就可以跑起来了
+详细文章请看我的博客：
+https://darkpalm.blog.csdn.net/article/details/90734991
 
 效果图:
 <div align=center>
